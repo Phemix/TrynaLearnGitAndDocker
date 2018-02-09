@@ -1,6 +1,6 @@
-#First Approach to Git
+# First Approach to Git
 
-##This application is a quick dive into just spinning logs into a console for us to test with
+## This application is a quick dive into just spinning logs into a console for us to test with
 
 
 ```
