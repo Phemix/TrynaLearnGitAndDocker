@@ -1,7 +1,7 @@
 #!/bin/bash
 
-docker stop app_logger
+docker stop logging_app
 echo "application stopped"
 
-docker remove app_logger
+docker rm  logging_app
 echo "application removed"
