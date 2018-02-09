@@ -1,0 +1,31 @@
+version: "3"
+
+services:
+
+    fluent_bit:
+        image: fluent/fluent-bit:latest
+        networks:
+            - local_net
+        volumes: 
+            - ./Logs:/fluent-bit/log
+            - ./fluentconfig.conf:/fluent-bit/etc/fluent-bit.conf
+        ports:
+            - "24224:24224"
+            
+
+    auto_log_generator:
+        image: app_logger:latest
+        tty: true
+        networks:
+            - local_net
+        ports:
+            - "80:80"
+        logging:
+            driver: "fluentd"
+        deploy: 
+            replicas: 2
+
+networks:
+    local_net:
+        driver: bridge
+

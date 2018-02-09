@@ -1,0 +1,1868 @@
+[2018/02/09 18:28:22] [ info] [engine] started
+[2018/02/09 18:28:22] [debug] [in_fw] Listen='0.0.0.0' TCP_Port=24224
+[2018/02/09 18:28:22] [ info] [in_fw] binding 0.0.0.0:24224
+[2018/02/09 18:28:22] [debug] [router] input=forward.0 'DYNAMIC TAG'
+[2018/02/09 18:29:49] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:29:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:29:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:29:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:29:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:29:54] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:29:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:29:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:29:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:29:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:26] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:26] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:26] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:26] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:30:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:30:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:30:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:30:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:30:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:46] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:46] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:46] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:31:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:31:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:31:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:31:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:31:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:16] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:16] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:16] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:16] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:32:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:32:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:32:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:32:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:32:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:01] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:01] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:16] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:16] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:26] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:26] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:26] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:26] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:36] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:36] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:36] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:36] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:33:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:33:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:33:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:33:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:33:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:34:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:34:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:34:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:34:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:34:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:11] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:11] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:11] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:11] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:26] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:26] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:41] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:41] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:41] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:41] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:46] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:46] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:35:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:35:56] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:35:56] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:35:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:35:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:16] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:16] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:21] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:21] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:21] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:21] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:31] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:31] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:36:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:36:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:36:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:36:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:36:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:16] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:16] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:26] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:26] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:26] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:26] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:51] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:51] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:37:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:37:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:37:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:37:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:37:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:21] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:21] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:38:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:38:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:38:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:38:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:38:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:39:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:39:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:39:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:39:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:39:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:30] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:35] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:40] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:45] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:50] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:51] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:51] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:51] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:51] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:40:55] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:40:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:40:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:40:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:40:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:00] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:05] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:10] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:15] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:20] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:21] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:21] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:25] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:31] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:31] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:31] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:31] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:31] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:36] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:41] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:46] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:51] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:41:56] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:41:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:41:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:41:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:41:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:01] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:06] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:11] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:16] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:21] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:26] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:31] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:36] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:41] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:46] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:51] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:42:56] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:42:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:42:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:42:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:42:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:01] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:06] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:11] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:16] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:16] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:16] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:21] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:26] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:31] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:36] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:41] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:46] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:51] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:43:56] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:43:56] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:43:56] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:43:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:43:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:01] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:06] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:11] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:11] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:11] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:11] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:11] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:16] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:21] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:26] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:31] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:36] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:41] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:46] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:51] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:44:56] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:44:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:44:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:44:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:44:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:01] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:01] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:01] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:06] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:11] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:16] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:21] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:26] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:31] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:36] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:41] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:46] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:46] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:46] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:46] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:46] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:51] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:45:56] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:45:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:45:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:45:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:45:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:01] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:01] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:01] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:06] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:11] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:16] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:21] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:21] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:21] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:21] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:21] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:26] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:31] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:36] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:41] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:46] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:51] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:46:56] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:46:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:46:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:46:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:46:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:01] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:06] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:11] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:16] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:21] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:26] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:26] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:26] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:26] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:26] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:31] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:36] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:41] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:46] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:51] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:47:56] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:47:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:47:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:47:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:47:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:01] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:06] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:11] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:16] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:21] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:21] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:21] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:21] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:21] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:26] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:26] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:26] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:32] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:37] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:42] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:47] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:51] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:51] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:51] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:51] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:52] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:48:56] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:48:56] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:48:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:48:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:48:57] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:02] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:07] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:12] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:17] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:22] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:27] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:33] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:36] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:36] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:38] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:43] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:48] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:53] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:49:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:49:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:49:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:49:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:49:58] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:03] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:08] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:13] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:18] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:21] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:21] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:21] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:21] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:23] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:28] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:33] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:36] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:36] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:36] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:36] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:38] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:43] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:48] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:53] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:50:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:50:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:50:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:50:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:50:58] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:03] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:08] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:13] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:16] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:16] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:18] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:23] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:28] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:31] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:31] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:33] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:38] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:43] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:48] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:53] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:51:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:51:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:51:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:51:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:51:58] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:03] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:06] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:06] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:08] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:13] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:18] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:23] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:26] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:26] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:26] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:26] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:28] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:31] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:31] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:33] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:38] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:43] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:48] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:51] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:51] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:53] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:52:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:52:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:52:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:52:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:52:58] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:01] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:01] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:01] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:01] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:03] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:08] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:13] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:18] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:21] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:21] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:23] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:28] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:33] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:38] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:43] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:48] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:53] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:53:56] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:53:56] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:53:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:53:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:53:58] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:03] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:06] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:06] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:08] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:13] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:16] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:16] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:18] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:23] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:28] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:33] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:38] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:43] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:48] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:53] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:54:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:54:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:54:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:54:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:54:58] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:01] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:01] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:01] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:01] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:03] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:08] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:11] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:11] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:13] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:18] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:23] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:28] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:33] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:38] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:43] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:48] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:53] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:55:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:55:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:55:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:55:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:55:58] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:01] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:01] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:03] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:06] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:06] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:08] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:13] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:16] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:16] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:16] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:16] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:18] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:23] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:28] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:33] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:38] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:43] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:48] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:53] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:56:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:56:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:56:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:56:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:56:58] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:01] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:01] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:03] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:08] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:11] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:11] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:11] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:11] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:13] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:19] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:24] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:29] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:34] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:39] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:44] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:49] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:54] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:57:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:57:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:57:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:57:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:57:59] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:04] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:09] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:14] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:19] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:21] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:21] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:21] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:21] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:24] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:29] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:34] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:39] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:44] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:49] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:51] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:51] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:54] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:58:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:58:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:58:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:58:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:58:59] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:01] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:01] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:04] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:09] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:14] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:19] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:24] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:29] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:32] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:32] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:34] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:39] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:42] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:42] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:42] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:42] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:44] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:46] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:46] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:46] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:46] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:49] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:52] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:52] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:52] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:52] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:54] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 18:59:57] [debug] [task->buffer] worker_id=0
+[2018/02/09 18:59:57] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 18:59:57] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 18:59:57] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 18:59:59] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:02] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:02] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:02] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:02] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:04] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:07] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:07] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:07] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:07] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:09] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:12] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:12] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:12] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:12] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:14] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:17] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:17] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:17] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:17] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:19] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:22] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:22] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:22] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:22] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:24] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:27] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:27] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:27] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:27] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:29] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:31] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:31] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:32] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:32] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:34] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:37] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:37] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:37] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:37] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:39] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:41] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:41] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:41] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:41] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:44] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:47] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:47] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:47] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:47] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:49] [debug] [input forward.0] [mem buf] size = 185
+[2018/02/09 19:00:51] [ info] [input] pausing forward.0
+[2018/02/09 19:00:51] [debug] [task->buffer] worker_id=0
+[2018/02/09 19:00:51] [debug] [task] created task=0x7f596303f0e0 id=0 OK
+[2018/02/09 19:00:51] [ warn] [engine] service will stop in 5 seconds
+[2018/02/09 19:00:51] [debug] [task] destroy task=0x7f596303f0e0 (task_id=0)
+[2018/02/09 19:00:51] [debug] [dyntag forward.0] 0x7f596308f0c0 destroy (tag=7ccfe6249db2)
+[2018/02/09 19:00:54] [debug] [input] forward.0 is paused, cannot append records
+[2018/02/09 19:00:56] [ info] [engine] service stopped
