@@ -5,7 +5,7 @@ services:
     fluent_bit:
         image: fluent/fluent-bit:latest
         networks:
-            - local_net
+            - fix
         volumes: 
             - ./Logs:/fluent-bit/log
             - ./fluentconfig.conf:/fluent-bit/etc/fluent-bit.conf
@@ -17,15 +17,15 @@ services:
         image: app_logger:latest
         tty: true
         networks:
-            - local_net
+            - fix
         ports:
             - "80:80"
         logging:
             driver: "fluentd"
         deploy: 
-            replicas: 2
+            replicas: 5
 
 networks:
-    local_net:
-        driver: bridge
+    fix:
+        driver: overlay
 
