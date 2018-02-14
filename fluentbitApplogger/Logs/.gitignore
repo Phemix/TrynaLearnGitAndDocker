@@ -1,0 +1,10 @@
+## All log file
+
+*.log
+
+
+##end of file
+
+
+# I want to see the gitignore file itself
+!.gitignore

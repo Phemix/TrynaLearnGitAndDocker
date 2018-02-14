@@ -15,8 +15,17 @@ FROM alpine:3.7 AS dependency
 COPY --from=build /fluentapplication /fluentapplication
 RUN apk add --no-cache python3
 WORKDIR /fluentapplication
-COPY ./fluentconfigs.conf /fluentapplication/usr/local/etc/fluent-bit/fluent-bit.conf
 COPY ./pythonFileLogger.py /pythonFileLogger.py
 COPY ./command.sh /docker_command.sh
+
+COPY ./fluentconfigs.conf /fluentapplication/usr/local/etc/fluent-bit/fluent-bit.conf 
+RUN mkdir /Logs \
+    &&  touch /Logs/py_app.log 
+ARG IPADDRESS
+ARG DEVICEVENDOR
+ARG ASKID
+ENV ip=$IPADDRESS
+ENV vendor=$DEVICEVENDOR
+ENV askID=$ASKID
 WORKDIR /
 CMD ["sh", "docker_command.sh"]
