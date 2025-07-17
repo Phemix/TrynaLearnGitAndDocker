@@ -1,1 +1,19 @@
-test
+name: Femi - Callable_Workflow
+
+on:
+  workflow_call:
+    inputs:
+      Command:
+        required: true
+        type: string
+      branch_name:
+        required: true
+        type: string
+      rule_name:
+        required: true
+        type: string
+      author:
+        required: true
+        type: string
+
+        
