@@ -17,14 +17,14 @@ on:
         type: string
 
 jobs:
-  build:
+  test_mic_check:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
       - name: Run a command
         run: echo "This workflow was triggered manually."
-      - name: Print the GitHub event
+      - name: Print the GitHub event to differntiate
         run: |
           echo "Event: ${{ github.event_name }}"
           echo "Repository: ${{ github.ref_base }}"
