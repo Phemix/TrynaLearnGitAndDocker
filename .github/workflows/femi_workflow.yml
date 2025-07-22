@@ -29,3 +29,9 @@ jobs:
           echo "Event: ${{ github.event_name }}"
           echo "Repository: ${{ github.ref_base }}"
           echo "Actor: ${{ github.actor }}"
+  print_vars:
+    runs-on: ubuntu-latest
+    steps:
+      - name: print variables
+        run: echo '${{ toJSON(github) }}'
+    
