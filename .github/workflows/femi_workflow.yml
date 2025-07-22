@@ -15,6 +15,10 @@ on:
       author:
         required: true
         type: string
+    secrets:
+      access-token:
+        description: 'A token passed from the caller workflow'
+        required: false
 
 jobs:
   test_mic_check:
