@@ -33,5 +33,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: print variables
-        run: echo '${{ toJSON(github) }}'
+        run: |
+             echo '${{ inputs.branch_name }}'
+             echo '${{ inputs.Command }}'
+             echo '${{ inputs.rule_name }}'
+             echo '${{ inputs.author }}'
     
