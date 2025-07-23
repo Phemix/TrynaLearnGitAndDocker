@@ -16,7 +16,7 @@ on:
         required: true
         type: string
     secrets:
-      access-token:
+      access_token:
         description: 'A token passed from the caller workflow'
         required: true
 
